@@ -1,0 +1,5 @@
+.DS_Store
+_site/*
+.s3cfg
+*.sass-cache
+whats-next-00.html
